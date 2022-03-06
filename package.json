@@ -1,0 +1,12 @@
+{
+    "name": "eth-supplychain-dapp",
+    "version": "0.1.0",
+    "dependencies": {
+        "solc": "^0.8.4",
+        "truffle": "^5.3.7"
+    },
+    "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build"
+ }
+}
